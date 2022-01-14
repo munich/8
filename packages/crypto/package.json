@@ -45,7 +45,7 @@
         "lodash.get": "^4.4.2",
         "lodash.set": "^4.3.2",
         "lodash.sumby": "^4.6.0",
-        "node-forge": "^0.8.1",
+        "node-forge": "^1.0.0",
         "otplib": "^10.0.1",
         "pluralize": "^7.0.0",
         "secp256k1": "^3.6.2",
